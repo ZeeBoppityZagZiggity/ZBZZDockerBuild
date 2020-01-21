@@ -1,7 +1,7 @@
 #! /bin/bash
 
 run() {
-  docker run --rm -it --name=zigdock -d -v $(pwd)/app:/app zigdock /bin/bash
+  docker run --rm -it --name=zigdock -d -v $(pwd)/ZBZZ.OS:/app zigdock /bin/bash
 }
 
 stop() {
