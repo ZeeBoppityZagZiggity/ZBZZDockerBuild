@@ -60,4 +60,4 @@ You are now in the Docker Container with the ZBZZ OS files witht the kendryte to
 
 ## Acknowledgments
 
-* Dr. Marz getting this ball rolling.
+* Dr. Marz getting deez ballz rolling.
